@@ -10,6 +10,7 @@
   - [First Prototype](#My-First-Keycap(SA-Profile))
   - [Brass](#Brass-Keycap(Cherry-Profile))
   - [Aluminium](#Aluminium-Keycap-1)
+  - [Brass Meteorite Videos](#Brass-Meteorite-Videos) 
 ## How it started
 During the pandemic weekends got a bit boring, I decided to learn how to draw, design and machine using Fusion360. With access to a Fanuc Robodrill, my machining hobby started off with my first keyboard(named Ellya, following the norm in the Mechanical Keyboard Community), progressing to more complex designs such as the keycaps. I gained experience learning how the different material(aluminium, brass, copper, stainless steel etc) properties affect how the material can be machined and by varying feed rates, spindle speed and tool path, I was able to get some unique looking finishes on my artisan keycaps.
 
@@ -70,3 +71,11 @@ Front View:
 ## Aluminium Keycap 2
 
 <img src="./Keycaps/Alu2.JPG" width="50%">   
+
+## Brass Meteorite Videos
+
+<a href="https://imgur.com/5xRDJIG"><img src="https://i.imgur.com/5xRDJIG.jpg" width="50%"></a>
+
+<a href="https://imgur.com/0nbyeXy"><img src="https://i.imgur.com/0nbyeXy.jpg" width="50%"></a>
+
+
